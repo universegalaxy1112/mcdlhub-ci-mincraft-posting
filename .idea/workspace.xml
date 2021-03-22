@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="711e8dd8-f188-467b-bb06-1b534fbf8267" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pAGexWSIpIz4fnApZ3oi7qqkNz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Cameron-Roblox/v2" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="711e8dd8-f188-467b-bb06-1b534fbf8267" name="Default Changelist" comment="" />
+      <created>1614618579701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614618579701</updated>
+      <workItem from="1614618581544" duration="189000" />
+      <workItem from="1614866488865" duration="8000" />
+      <workItem from="1615044504834" duration="1832000" />
+      <workItem from="1615166290616" duration="4021000" />
+      <workItem from="1615186882670" duration="9930000" />
+      <workItem from="1615227235557" duration="2033000" />
+      <workItem from="1615253608783" duration="14288000" />
+      <workItem from="1615297625604" duration="6310000" />
+      <workItem from="1615338983162" duration="36426000" />
+      <workItem from="1615426458079" duration="458000" />
+      <workItem from="1615427033824" duration="1757000" />
+      <workItem from="1615429562456" duration="633000" />
+      <workItem from="1615432598132" duration="1555000" />
+      <workItem from="1615437036796" duration="841000" />
+      <workItem from="1615511623586" duration="14250000" />
+      <workItem from="1615645985252" duration="8298000" />
+      <workItem from="1615714811796" duration="1015000" />
+      <workItem from="1615742307977" duration="1948000" />
+      <workItem from="1615917736233" duration="889000" />
+      <workItem from="1616075498572" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2232" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615056556421">
+      <screen x="1920" y="88" width="1440" height="860" />
+    </state>
+    <state x="2232" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.88.1440.860/0.0.1920.1040@1920.88.1440.860" timestamp="1615056556421" />
+    <state x="667" y="224" key="FileChooserDialogImpl" timestamp="1615255487681">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="224" key="FileChooserDialogImpl/1920.88.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1615255487681" />
+    <state x="2420" y="273" key="FileChooserDialogImpl/1920.88.1440.860/0.0.1920.1040@1920.88.1440.860" timestamp="1614866495237" />
+    <state x="644" y="319" key="NewPhpClassDialog" timestamp="1615370708554">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="644" y="319" key="NewPhpClassDialog/1920.88.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1615370708554" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1615649695646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.88.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1615649695646" />
+    <state x="528" y="307" key="com.intellij.ide.util.TipDialog" timestamp="1616075501617">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="528" y="307" key="com.intellij.ide.util.TipDialog/1920.88.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1616075501617" />
+    <state x="2316" y="342" key="com.intellij.ide.util.TipDialog/1920.88.1440.860/0.0.1920.1040@1920.88.1440.860" timestamp="1615168850697" />
+    <state x="1920" y="88" width="1456" height="961" key="dock-window-1" timestamp="1615520630507">
+      <screen x="1920" y="88" width="1440" height="860" />
+    </state>
+    <state x="1920" y="88" width="1456" height="961" key="dock-window-1/1920.88.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1615520630507" />
+    <state x="287" y="-21" width="1092" height="795" key="dock-window-1/1920.88.1440.860/0.0.1920.1040@1920.88.1440.860" timestamp="1615343774688" />
+    <state x="1920" y="88" width="1456" height="961" key="dock-window-2" timestamp="1615371987294">
+      <screen x="1920" y="88" width="1440" height="860" />
+    </state>
+    <state x="1920" y="88" width="1456" height="961" key="dock-window-2/1920.88.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1615371987294" />
+    <state x="541" y="177" width="991" height="687" key="find.popup" timestamp="1615918027600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="541" y="177" width="991" height="687" key="find.popup/1920.88.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1615918027600" />
+    <state x="2326" y="234" width="743" height="568" key="find.popup/1920.88.1440.860/0.0.1920.1040@1920.88.1440.860" timestamp="1615715199430" />
+    <state x="623" y="225" width="672" height="676" key="search.everywhere.popup" timestamp="1615917996329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="676" key="search.everywhere.popup/1920.88.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1615917996329" />
+    <state x="2387" y="274" width="672" height="559" key="search.everywhere.popup/1920.88.1440.860/0.0.1920.1040@1920.88.1440.860" timestamp="1615714966443" />
+  </component>
+</project>
